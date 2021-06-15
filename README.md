@@ -1,6 +1,8 @@
 
 # Soundcloud
 
+[![Cypress.io](https://img.shields.io/badge/tested%20with-Cypress-04C38E.svg)](https://www.cypress.io/)
+
 [![CircleCI](https://circleci.com/gh/yesicaTt/soundcloud_tt/tree/master.svg?style=svg)](https://circleci.com/gh/yesicaTt/soundcloud_tt/tree/master)
 [![codecov](https://codecov.io/gh/yesicaTt/soundcloud_tt/branch/master/graph/badge.svg?token=V53R84BX4P)](https://codecov.io/gh/yesicaTt/soundcloud_tt)
 [![CodeFactor](https://www.codefactor.io/repository/github/yesicaTt/soundcloud_tt/badge)](https://www.codefactor.io/repository/github/yesicaTt/soundcloud_tt)
